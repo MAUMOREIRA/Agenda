@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h3>Pagina Inicial - Projeto Agenda IFSP</h3>
+    <h3>Pagina Inicial - Projeto Agenda IFSP - Mau Mau E CaiqueBrito</h3>
     <hr>
     <ul>
         <li><a href='cadastro_agenda.html'>Cadastrar Agenda</a></li> 
